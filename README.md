@@ -10,6 +10,10 @@
 ## Defensive
 
 
+### Video
+[AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
+
+
 ## Twitter
 
 [@0xdabbad00 (Scott Piper)](https://twitter.com/0xdabbad00) 
