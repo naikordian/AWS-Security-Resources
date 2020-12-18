@@ -20,7 +20,7 @@
 
 ## Defensive
 
-## Blog
+### Blog
 [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.rapid7.com/2016/11/30/early-warning-detectors-using-aws-access-keys-honeytokens/)
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
