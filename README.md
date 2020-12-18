@@ -22,4 +22,4 @@
 
 [@RhinoSecurity (Rhino Security Labs)](https://twitter.com/RhinoSecurity)
 
-[@SummitRoute Summit Route](https://twitter.com/SummitRoute) 
+[@SummitRoute (Summit Route)](https://twitter.com/SummitRoute) 
