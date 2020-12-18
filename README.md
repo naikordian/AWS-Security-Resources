@@ -22,6 +22,14 @@
 
 ### Blog
 [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.rapid7.com/2016/11/30/early-warning-detectors-using-aws-access-keys-honeytokens/)
+
+[Denial of Wallet Attacks on AWS](https://summitroute.com/blog/2020/06/08/denial_of_wallet_attacks_on_aws/)
+
+[AWS Security Maturity Roadmap 2020](https://summitroute.com/blog/2020/05/21/aws_security_maturity_roadmap_2020/)
+
+[AWS Network Firewall – New Managed Firewall Service in VPC](https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/)
+
+["Instagram's Million Dollar Bug": Case study for defense](https://summitroute.com/blog/2015/12/24/instagram_bounty_case_study_for_defense/)
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
