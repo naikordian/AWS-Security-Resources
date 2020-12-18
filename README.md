@@ -1,4 +1,4 @@
-# AWS-Security-Resources
+# AWS Security Resources
 
 ## Offensive
 ### Book
