@@ -3,7 +3,7 @@
 ## Site
 [fwd:cloudsec](https://fwdcloudsec.org/)
 
-[Rhino Security's blog]*(https://rhinosecuritylabs.com/blog/?category=aws)
+[Rhino Security's blog](https://rhinosecuritylabs.com/blog/?category=aws)
 
 [Summit Route's blog](https://summitroute.com/)
 
