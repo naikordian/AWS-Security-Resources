@@ -16,6 +16,6 @@
 [@SpenGietz (Spencer Gietzen)](https://twitter.com/SpenGietz)
 [@dagrz (Daniel Grzelak)](https://twitter.com/dagrz)
 
-[@cloudvillage_dc (Cloud Village)](https://twitter.com/cloudvillage_dc)
+[@cloudvillage\_dc (Cloud Village)](https://twitter.com/cloudvillage_dc)
 [@RhinoSecurity (Rhino Security Labs)](https://twitter.com/RhinoSecurity)
 [@SummitRoute Summit Route](https://twitter.com/SummitRoute)
