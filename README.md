@@ -1,5 +1,12 @@
 # AWS Security Resources
 
+## Site
+[fwd:cloudsec](https://fwdcloudsec.org/)
+
+[Rhino Security's blog]*(https://rhinosecuritylabs.com/blog/?category=aws)
+
+[Summit Route's blog](https://summitroute.com/)
+
 ## Offensive
 ### Book
 [Hands-On AWS Penetration Testing with Kali Linux](https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux-ebook/dp/B07C61YYJ4)
@@ -14,7 +21,7 @@
 
 [Enumerate AWS API Permissions Without Logging to CloudTrail](https://frichetten.com/blog/aws-api-enum-vuln/)
 
-[S3 Ransomware Part 1: Attack Vector](https://rhinosecuritylabs.com/aws/s3-ransomware-part-1-attack-vector/)
+[Enter the Vault: Authentication Issues in HashiCorp Vault](https://googleprojectzero.blogspot.com/2020/10/enter-the-vault-auth-issues-hashicorp-vault.html)
 
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
@@ -35,7 +42,7 @@
 
 ["Instagram's Million Dollar Bug": Case study for defense](https://summitroute.com/blog/2015/12/24/instagram_bounty_case_study_for_defense/)
 
-[S3 Ransomware Part 2: Prevention and Defense](https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/)
+[Public dataset of Cloudtrail logs from flaws.cloud](https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_flaws_cloud/)
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
