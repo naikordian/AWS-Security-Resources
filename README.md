@@ -13,8 +13,12 @@
 [The Ten Most Critical Risks for Serverless Applications](https://github.com/puresec/sas-top-10)
 
 [Enumerate AWS API Permissions Without Logging to CloudTrail](https://frichetten.com/blog/aws-api-enum-vuln/)
+
+[S3 Ransomware Part 1: Attack Vector](https://rhinosecuritylabs.com/aws/s3-ransomware-part-1-attack-vector/)
+
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
+[Ransom in the Cloud - Spencer Gietzen (DEF CON Cloud Village)](https://www.youtube.com/watch?v=8QdZ2-sAQFs)
 
 
 
@@ -30,6 +34,8 @@
 [AWS Network Firewall – New Managed Firewall Service in VPC](https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/)
 
 ["Instagram's Million Dollar Bug": Case study for defense](https://summitroute.com/blog/2015/12/24/instagram_bounty_case_study_for_defense/)
+
+[S3 Ransomware Part 2: Prevention and Defense](https://rhinosecuritylabs.com/aws/s3-ransomware-part-2-prevention-and-defense/)
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
