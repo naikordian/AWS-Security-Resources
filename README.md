@@ -13,8 +13,13 @@
 ## Twitter
 
 [@0xdabbad00 (Scott Piper)](https://twitter.com/0xdabbad00) 
+
 [@SpenGietz (Spencer Gietzen)](https://twitter.com/SpenGietz) 
+
 [@dagrz (Daniel Grzelak)](https://twitter.com/dagrz) 
-[@cloudvillage\_dc (Cloud Village)](https://twitter.com/cloudvillage_dc) 
+
+[@cloudvillage_dc (Cloud Village)](https://twitter.com/cloudvillage_dc) 
+
 [@RhinoSecurity (Rhino Security Labs)](https://twitter.com/RhinoSecurity)
+
 [@SummitRoute Summit Route](https://twitter.com/SummitRoute) 
