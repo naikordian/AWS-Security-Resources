@@ -25,6 +25,7 @@
 
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
+
 [Ransom in the Cloud - Spencer Gietzen (DEF CON Cloud Village)](https://www.youtube.com/watch?v=8QdZ2-sAQFs)
 
 
