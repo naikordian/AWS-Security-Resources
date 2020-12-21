@@ -3,6 +3,8 @@
 ## Site
 [fwd:cloudsec](https://fwdcloudsec.org/)
 
+[Hacking the cloud](https://hackingthe.cloud/aws/)
+
 [Rhino Security's blog](https://rhinosecuritylabs.com/blog/?category=aws)
 
 [Summit Route's blog](https://summitroute.com/)
@@ -31,7 +33,8 @@
 
 
 ## Defensive
-
+### Book
+[AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
 ### Blog
 [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.rapid7.com/2016/11/30/early-warning-detectors-using-aws-access-keys-honeytokens/)
 
