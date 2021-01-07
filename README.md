@@ -49,6 +49,9 @@
 ["Instagram's Million Dollar Bug": Case study for defense](https://summitroute.com/blog/2015/12/24/instagram_bounty_case_study_for_defense/)
 
 [Public dataset of Cloudtrail logs from flaws.cloud](https://summitroute.com/blog/2020/10/09/public_dataset_of_cloudtrail_logs_from_flaws_cloud/)
+
+[AWS credentials being sent to Serverless.com?](https://www.reddit.com/r/serverless/comments/krbj8y/aws_credentials_being_sent_to_serverlesscom_what/)
+
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
