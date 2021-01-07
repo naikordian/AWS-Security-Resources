@@ -52,6 +52,8 @@
 
 [AWS credentials being sent to Serverless.com?](https://www.reddit.com/r/serverless/comments/krbj8y/aws_credentials_being_sent_to_serverlesscom_what/)
 
+[Evilginx-ing into the cloud: How we detected a red team attack in AWS](https://expel.io/blog/evilginx-into-cloud-detected-red-team-attack-in-aws/)
+
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
