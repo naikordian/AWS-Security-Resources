@@ -57,6 +57,10 @@
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
+## Tool
+[Pacu](https://github.com/RhinoSecurityLabs/pacu)
+
+[Offensive Terraform Modules](https://offensive-terraform.github.io/)
 
 ## Twitter
 
