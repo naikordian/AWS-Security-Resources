@@ -54,6 +54,10 @@
 
 [Evilginx-ing into the cloud: How we detected a red team attack in AWS](https://expel.io/blog/evilginx-into-cloud-detected-red-team-attack-in-aws/)
 
+[Netflix Cloud Security: Detecting Credential Compromise in AWS](https://netflixtechblog.com/netflix-cloud-security-detecting-credential-compromise-in-aws-9493d6fd373a)
+
+[Netflix Information Security: Preventing Credential Compromise in AWS](https://netflixtechblog.com/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
+
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
