@@ -27,6 +27,8 @@
 
 [USING DNS TO BREAK OUT OF ISOLATED NETWORKS IN A AWS CLOUD ENVIRONMENT](https://dejandayoff.com/using-dns-to-break-out-of-isolated-networks-in-a-aws-cloud-environment/)
 
+[https://www.cloudar.be/awsblog/finding-the-accountid-of-any-public-s3-bucket/](https://www.cloudar.be/awsblog/finding-the-accountid-of-any-public-s3-bucket/)
+
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
 
