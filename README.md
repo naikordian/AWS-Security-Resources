@@ -68,6 +68,8 @@
 
 [Offensive Terraform Modules](https://offensive-terraform.github.io/)
 
+[enumerate-iam](https://github.com/andresriancho/enumerate-iam)
+
 ## Twitter
 
 [@0xdabbad00 (Scott Piper)](https://twitter.com/0xdabbad00) 
