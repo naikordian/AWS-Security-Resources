@@ -34,6 +34,8 @@
 
 [Ransom in the Cloud - Spencer Gietzen (DEF CON Cloud Village)](https://www.youtube.com/watch?v=8QdZ2-sAQFs)
 
+[Common Infrastructure Exploits in AWS/GCP/Azure Servers and Containers](https://www.youtube.com/watch?v=wZoChHlN6vU)
+
 
 
 ## Defensive
