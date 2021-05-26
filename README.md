@@ -29,6 +29,8 @@
 
 [Finding the Account ID of any public S3 bucket](https://www.cloudar.be/awsblog/finding-the-accountid-of-any-public-s3-bucket/)
 
+[The Need to Protect Public AWS SSM Documents](https://research.checkpoint.com/2021/the-need-to-protect-public-aws-ssm-documents-what-the-research-shows/)
+
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
 
