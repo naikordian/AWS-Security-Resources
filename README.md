@@ -38,6 +38,12 @@
 
 [Common Infrastructure Exploits in AWS/GCP/Azure Servers and Containers](https://www.youtube.com/watch?v=wZoChHlN6vU)
 
+### Tool
+[Pacu](https://github.com/RhinoSecurityLabs/pacu)
+
+[Offensive Terraform Modules](https://offensive-terraform.github.io/)
+
+[enumerate-iam](https://github.com/andresriancho/enumerate-iam)
 
 
 ## Defensive
@@ -73,12 +79,11 @@
 
 [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
 
-## Tool
-[Pacu](https://github.com/RhinoSecurityLabs/pacu)
+[Amazon GuardDuty - Let's Attack My Account! - AWS Online Tech Talks](https://www.youtube.com/watch?v=f7RB6k7cP6k)
 
-[Offensive Terraform Modules](https://offensive-terraform.github.io/)
+### Tool
 
-[enumerate-iam](https://github.com/andresriancho/enumerate-iam)
+[Amazon Guardduty Tester](https://github.com/awslabs/amazon-guardduty-tester)
 
 ## Twitter
 
