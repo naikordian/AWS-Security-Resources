@@ -69,7 +69,9 @@
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
-[https://www.youtube.com/watch?v=KliCQbJT6YQ](https://www.youtube.com/watch?v=KliCQbJT6YQ)
+[Spencer Gietzen, IOMs vs. IOAs in AWS | KringleCon 2020](https://www.youtube.com/watch?v=KliCQbJT6YQ)
+
+[Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
 
 ## Tool
 [Pacu](https://github.com/RhinoSecurityLabs/pacu)
