@@ -79,7 +79,7 @@
 
 [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
 
-[Amazon GuardDuty - Let's Attack My Account! - AWS Online Tech Talks](https://www.youtube.com/watch?v=f7RB6k7cP6k)
+[Amazon GuardDuty - Let's Attack My Account! - AWS Online Tech Talks](https://www.youtube.com/watch?v=f7RB6k7cP6k) [[slide]](https://www.slideshare.net/AmazonWebServices/amazon-guardduty-lets-attack-my-account-aws-online-tech-talks)
 
 ### Tool
 
