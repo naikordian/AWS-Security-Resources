@@ -64,6 +64,8 @@
 
 [Netflix Information Security: Preventing Credential Compromise in AWS](https://netflixtechblog.com/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
 
+[Black-T: New Cryptojacking Variant from TeamTNT](https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/)
+
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
