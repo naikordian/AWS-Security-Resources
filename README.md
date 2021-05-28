@@ -69,6 +69,8 @@
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
+[https://www.youtube.com/watch?v=KliCQbJT6YQ](https://www.youtube.com/watch?v=KliCQbJT6YQ)
+
 ## Tool
 [Pacu](https://github.com/RhinoSecurityLabs/pacu)
 
