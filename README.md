@@ -31,6 +31,8 @@
 
 [The Need to Protect Public AWS SSM Documents](https://research.checkpoint.com/2021/the-need-to-protect-public-aws-ssm-documents-what-the-research-shows/)
 
+[Retrieving AWS security credentials from the AWS console](https://blog.christophetd.fr/retrieving-aws-security-credentials-from-the-aws-console/)
+
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
 
