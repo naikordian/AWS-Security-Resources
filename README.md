@@ -33,6 +33,8 @@
 
 [Retrieving AWS security credentials from the AWS console](https://blog.christophetd.fr/retrieving-aws-security-credentials-from-the-aws-console/)
 
+[Bug bounty](bug_bounty.md)
+
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
 
