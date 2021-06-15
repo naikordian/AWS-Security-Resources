@@ -35,6 +35,8 @@
 
 [Bug bounty](bug_bounty.md)
 
+[Exploiting SSRF in AWS Elastic Beanstalk](https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk/)
+
 ### Video
 [DEF CON 25 - Gerald Steere, Sean Metcalf - Hacking the Cloud](https://www.youtube.com/watch?v=LufXEPTlPak) [[slide]](https://adsecurity.org/wp-content/uploads/2017/07/2017-DEFCON-HackingTheCloud-SteereMetcalf-Final.pdf)
 
