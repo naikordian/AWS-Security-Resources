@@ -78,6 +78,8 @@
 
 [Black-T: New Cryptojacking Variant from TeamTNT](https://unit42.paloaltonetworks.com/black-t-cryptojacking-variant/)
 
+[Well-Architected Labs Security](https://wellarchitectedlabs.com/security/)
+
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
