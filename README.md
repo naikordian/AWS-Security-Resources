@@ -12,6 +12,9 @@
 ## Offensive
 ### Book
 [Hands-On AWS Penetration Testing with Kali Linux](https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux-ebook/dp/B07C61YYJ4)
+
+[Cloud Penetration Testing Playbook](https://cloudsecurityalliance.org/artifacts/cloud-penetration-testing-playbook/)
+
 ### Blog
 [CloudGoat ECS_EFS_Attack Walkthrough](https://rhinosecuritylabs.com/cloud-security/cloudgoat-aws-ecs_efs_attack/)
 
