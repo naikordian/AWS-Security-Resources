@@ -54,6 +54,9 @@
 
 [enumerate-iam](https://github.com/andresriancho/enumerate-iam)
 
+### Training
+[Kontra AWS Top 10](https://application.security/free/kontra-aws-clould-top-10)
+
 
 ## Defensive
 ### Book
@@ -91,6 +94,8 @@
 [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
 
 [Amazon GuardDuty - Let's Attack My Account! - AWS Online Tech Talks](https://www.youtube.com/watch?v=f7RB6k7cP6k) [[slide]](https://www.slideshare.net/AmazonWebServices/amazon-guardduty-lets-attack-my-account-aws-online-tech-talks)
+ 
+[BSides CT 2020 - Rami McCarthy - Learning from AWS (Customer) Security Breaches](https://www.youtube.com/watch?v=Sf2eubxjHPo) [[slide]](https://speakerdeck.com/ramimac/learning-from-aws-customer-security-incidents)
 
 ### Tool
 
