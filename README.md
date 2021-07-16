@@ -97,6 +97,9 @@
  
 [BSides CT 2020 - Rami McCarthy - Learning from AWS (Customer) Security Breaches](https://www.youtube.com/watch?v=Sf2eubxjHPo) [[slide]](https://speakerdeck.com/ramimac/learning-from-aws-customer-security-incidents)
 
+[BSides CT 2020 - Michael T. Raggo - Cloud Breach Incident Response & Forensics](https://youtu.be/_aiSLwCJs28)
+- Note at 32.00 even you sign in console with username/password You still get temporary credentials for that session so Cloudtrail log will have an access key as well
+
 ### Tool
 
 [Amazon Guardduty Tester](https://github.com/awslabs/amazon-guardduty-tester)
