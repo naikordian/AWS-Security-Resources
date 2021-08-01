@@ -1,15 +1,14 @@
 # AWS Security Resources
 
-## Site
-[fwd:cloudsec](https://fwdcloudsec.org/)
 
+
+## Offensive
+
+### Site
 [Hacking the cloud](https://hackingthe.cloud/aws/)
 
 [Rhino Security's blog](https://rhinosecuritylabs.com/blog/?category=aws)
 
-[Summit Route's blog](https://summitroute.com/)
-
-## Offensive
 ### Book
 [Hands-On AWS Penetration Testing with Kali Linux](https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux-ebook/dp/B07C61YYJ4)
 
@@ -59,6 +58,14 @@
 
 
 ## Defensive
+
+### Site
+[fwd:cloudsec](https://fwdcloudsec.org/)
+
+[Summit Route's blog](https://summitroute.com/)
+
+[CloudSploit Security Remediation Guides](https://github.com/aquasecurity/cloud-security-remediation-guides)
+
 ### Book
 [AWS Security Incident Response Guide](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf)
 ### Blog
