@@ -93,6 +93,8 @@
 
 [Well-Architected Labs Security](https://wellarchitectedlabs.com/security/)
 
+[Old Services, New Tricks: Cloud Metadata Abuse by UNC2903](https://www.mandiant.com/resources/cloud-metadata-abuse-unc2903)
+
 ### Video
 [AWS re:Invent 2016: Automating Security Event Response, from Idea to Code to Execution (SEC313)](https://www.youtube.com/watch?v=x4GkAGe65vE)
 
